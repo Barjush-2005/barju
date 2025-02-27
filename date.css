@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+     align-items: center;
+    border:1px solid aqua;
+    background-color: rgb(43, 107, 107);
+}
+.s{
+    border:1px solid red;
+    border-radius: 10px;
+width: 250px;
+background-color: rgb(190, 68, 129);
+text-align: center;
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+.main2{
+border:3px solid brown ;
+color: cadetblue;
+}
